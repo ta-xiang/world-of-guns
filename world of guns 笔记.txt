@@ -1,0 +1,2 @@
+1.Remington Derringer           拆卸检修：4    完全拆解：20
+Colt1911A1                      拆卸检修：8    完全拆解：20
